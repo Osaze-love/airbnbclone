@@ -17,7 +17,7 @@ const Banner = () => {
           className="text-purple-500 bg-white px-10 py-2 shadow-md rounded-full font-bold my-3 hover:shadow-xl cursor-pointer active:scale-90 transition duration-150
         "
         >
-          I'll help
+          Lets Help Out
         </button>
       </div>
     </div>

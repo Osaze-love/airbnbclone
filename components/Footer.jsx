@@ -26,7 +26,7 @@ const Footer = () => {
         <p>Help Centre </p>
         <p>Trust and Safety</p>
         <p>Say Hello</p>
-        <p>Christmas' a Fav</p>
+        <p>Christmas a Fav</p>
         <p>For the Win</p>
       </div>
 
